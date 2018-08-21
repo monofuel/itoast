@@ -2,6 +2,8 @@
 
 https://youtu.be/CeTM4jQWmZM
 
+https://docs.google.com/presentation/d/1NQVLf8SfeCYwRS7qUV-StuLs1u4FCN-bZUeqv99WtKE/edit?usp=sharing
+
 # Generated Snips skill
 
 This is a generated python2 snips skill using the `snips-template` tool.
